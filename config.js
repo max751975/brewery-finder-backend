@@ -3,7 +3,7 @@
 const DB_URI =
   process.env.NODE_ENV === "test"
     ? "postgresql:///brewery_finder_db_test"
-    : "postgresql:///brewery_finder_db";
+    : "postgres://jqlmihlj:THazLj2D2zWiN8SYbGKQQPtatlOkuNkt@bubble.db.elephantsql.com/jqlmihlj";
 
 const SECRET_KEY = process.env.SECRET_KEY || "secret";
 
