@@ -11,6 +11,16 @@ link: https://breweryfinder-api.onrender.com
 **Server:** Node, Express
 **Database:** PostgreSQL, node-postgress
 
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install
+  npm start
+```
+    
+
 
 ## 🚀 About Me
 I'm a full stack developer recently graduated from the Springboard online bootcamp.
